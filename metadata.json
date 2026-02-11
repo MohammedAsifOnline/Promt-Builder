@@ -1,0 +1,7 @@
+{
+  "name": "Prompt Builder",
+  "description": "An AI-powered multilingual assistant to help users transform raw ideas—typed or spoken—into polished, constructive English prompts, with translation capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
